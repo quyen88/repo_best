@@ -2,7 +2,7 @@
 ## For LLM
 [Open Source Large Model User Guide](https://github.com/datawhalechina/self-llm)
 [LLM Universe](https://github.com/datawhalechina/llm-universe)
-[]()
+[LLM Tut](https://github.com/samwit/llm-tutorials)
 []()
 []()
 []()
